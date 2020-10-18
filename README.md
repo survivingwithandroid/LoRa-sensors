@@ -10,7 +10,7 @@ This repository contains the source code for the LoRa sender and the LoRa receiv
 # Project overview
 Below how the project works:
 
-![LoRa sender and receiver with API](https://github.com/survivingwithandroid/LoRa-sensors/blob/master/images/LoRa%20project.png)
+![LoRa sender and receiver with API](https://github.com/survivingwithandroid/LoRa-sensors/raw/main/images/LoRa%20project.png)
 
 # Required sensors
 - DHT11
