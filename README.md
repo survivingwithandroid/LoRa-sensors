@@ -5,7 +5,7 @@ Link: [How to use LoRa to send and receive sensor readings](https://www.survivin
 
 [![twitter](https://img.shields.io/twitter/follow/survivingwithan.svg?style=social)](https://twitter.com/intent/follow?screen_name=survivingwithan)
 
-This repository contains the source code for the LoRa sender and the LoRa receiver using TTGO LoRa32.
+This repository contains the source code for the LoRa sender and the LoRa receiver using TTGO LoRa32. The project is developed using PlatformIO.
 
 # Project overview
 Below how the project works:
